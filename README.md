@@ -34,3 +34,11 @@
 <p align="left">
 <a href="https://twitter.com/3kh0_" target="blank"><img align="center" src="" alt="" height="30" width="40" /></a>
 <a href="https://discord.gg/Pu4b57qA9z" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Pu4b57qA9z" height="30" width="40" /></a>
+  
+  <h2 align="left">Stats</h2>
+
+<p><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=NRZT555&show_icons=true&theme=dark&locale=en&langs_count=10&layout=compact" alt="Nrzt" /></p>
+<p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=NRZT555&show_icons=true&theme=dark&locale=en" alt="3kh0" /></p>
+<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=NRZT555&theme=dark" alt="Nrzt" /></p><br>
+  </html>
+
