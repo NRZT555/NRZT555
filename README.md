@@ -1,5 +1,4 @@
-<img alt="IF YOU ARE VIEWING THIS PAGE FROM SEARCH, THIS IS NOT MY ACTUAL WEBSITE! GO TO inco.tk FOR GAMES AND STUFF!" src="https://readme-typing-svg.herokuapp.com?vCenter=true&lines=Hello!+I+am+Echo!;HTML+Coder;JavaScript+Game+maker;Talk+to+me+on+my+discord!">
-src="https://readme-typing-svg.herokuapp.com?vCenter=true&lines=Hello!+I+am+Nrzt!;HTML+Coder;JavaScript+bot+coder;Talk+to+me+on+my+discord!">
+<img alt="IF YOU ARE VIEWING THIS PAGE FROM SEARCH, THIS IS NOT MY ACTUAL WEBSITE! GO TO inco.tk FOR GAMES AND STUFF!" src="https://readme-typing-svg.herokuapp.com?vCenter=true&lines=Hello!+I+am+Nrzt!;HTML+Coder;JavaScript+bot+coder;Talk+to+me+on+my+discord!">
 <h1 align="center">Hi 👋, I'm Nrzt</h1>
 <h3 align="center">A nice person who can code discord bots and make cool looking projects.</h3>
 <h2>Programmer Humor</h2>
